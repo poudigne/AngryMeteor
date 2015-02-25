@@ -1,0 +1,11 @@
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\obj\Debug\Assembly-CSharp.dll
+C:\Users\Pierre-Luc\Documents\Projects\Angry Meteo\obj\Debug\Assembly-CSharp.pdb
